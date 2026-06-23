@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Noche de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-fuego/) |
+| **Get License** | [Commercial Licensing for Noche de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f8f53ac9aecafb64df6f9273664b4840e3abd4b4045efe1903cc5c1332b4cff6` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
