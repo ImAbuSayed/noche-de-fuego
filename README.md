@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Noche de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-fuego/) |
+| **Get License** | [Secure Licensing Rights for Noche de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus ojos brillan en la oscuridad, mi nena
+> Me tienes loco y esta noche es buena
+> Esta ciudad es tuya y yo soy tu prisionero
+> Bailando suave en nuestra noche de fuego
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
